@@ -405,14 +405,18 @@ cursor: pointer;
   width: 100%;
   height: 70px;
   background-color: rgba(47, 48, 58, 0.8);
+
+  /* outline: 1px dashed green; */
+}
+
+.direction-title {
   color: var(--primary-white-color);
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
-
-  /* outline: 1px dashed green; */
+  letter-spacing: 0.03em;
 }
 
 
